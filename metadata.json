@@ -1,0 +1,6 @@
+{
+  "name": "SOM TREVEL",
+  "description": "Luxury local and international travel, flights, e-tickets, hotels, Hajj & Umrah, visas, customer portal, and agency accounting platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

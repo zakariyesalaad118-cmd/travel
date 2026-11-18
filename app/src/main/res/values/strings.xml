@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SOM TREVEL</string>
+    <string name="tagline">Luxury Global Travel &amp; Sacred Pilgrimage</string>
+    <string name="demo_notice">Demo Mode: Sample agency data stored locally on device</string>
+</resources>
